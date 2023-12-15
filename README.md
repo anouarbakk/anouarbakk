@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anouarbakk
-- 👀 I’m interested in wrb development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
